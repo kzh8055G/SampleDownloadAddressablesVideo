@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: RemoteAssets_BundledAssetGroupSchema
   m_EditorClassIdentifier: 
   m_Group: {fileID: 11400000, guid: 178969a6713e84f41bac1303af0a0e45, type: 2}
-  m_Compression: 0
+  m_Compression: 1
   m_IncludeAddressInCatalog: 1
   m_IncludeGUIDInCatalog: 1
   m_IncludeLabelsInCatalog: 1

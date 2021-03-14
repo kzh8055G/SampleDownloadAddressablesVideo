@@ -21,8 +21,26 @@ MonoBehaviour:
     m_Address: Assets/Bundles/Waterfall - 63283.mp4
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 32900000, guid: 372ed1576e597e448bf0dcc9dc984ced, type: 3}
-    m_TargetAsset: {fileID: 32900000, guid: 372ed1576e597e448bf0dcc9dc984ced, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 484445fd75b526a42a9573353ffcbf9f
+    m_Address: Assets/Bundles/03.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7ac2920229dc950499b57e7b25d8519a
+    m_Address: Assets/Bundles/lever_bg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 7ac2920229dc950499b57e7b25d8519a, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 7ac2920229dc950499b57e7b25d8519a, type: 3}
+  - m_GUID: dfa29427099153f4f9c9a00ba9968deb
+    m_Address: Assets/Atlas/SampleAtlas.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4343727234628468602, guid: dfa29427099153f4f9c9a00ba9968deb, type: 2}
+    m_TargetAsset: {fileID: 4343727234628468602, guid: dfa29427099153f4f9c9a00ba9968deb, type: 2}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 6bb31bbc0f2ab03439e76a039608129d, type: 2}
   m_SchemaSet:
