@@ -33,14 +33,50 @@ MonoBehaviour:
     m_Address: Assets/Bundles/lever_bg.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 2800000, guid: 7ac2920229dc950499b57e7b25d8519a, type: 3}
-    m_TargetAsset: {fileID: 2800000, guid: 7ac2920229dc950499b57e7b25d8519a, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: dfa29427099153f4f9c9a00ba9968deb
     m_Address: Assets/Atlas/SampleAtlas.spriteatlas
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 4343727234628468602, guid: dfa29427099153f4f9c9a00ba9968deb, type: 2}
-    m_TargetAsset: {fileID: 4343727234628468602, guid: dfa29427099153f4f9c9a00ba9968deb, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ecc3121b0e0cc6f468f5e6dca03c6670
+    m_Address: Assets/Prefabs/goblin 2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 596509358011073622, guid: ecc3121b0e0cc6f468f5e6dca03c6670, type: 3}
+    m_TargetAsset: {fileID: 596509358011073622, guid: ecc3121b0e0cc6f468f5e6dca03c6670, type: 3}
+  - m_GUID: 4cf30613f276af9408a381583c791d40
+    m_Address: Assets/Prefabs/goblin 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4904457839837500248, guid: 4cf30613f276af9408a381583c791d40, type: 3}
+    m_TargetAsset: {fileID: 4904457839837500248, guid: 4cf30613f276af9408a381583c791d40, type: 3}
+  - m_GUID: ae76550112b368a4680f676c12edac9f
+    m_Address: Assets/Prefabs/FootSoldier.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5350795966051177086, guid: ae76550112b368a4680f676c12edac9f, type: 3}
+    m_TargetAsset: {fileID: 5350795966051177086, guid: ae76550112b368a4680f676c12edac9f, type: 3}
+  - m_GUID: 7d6b5b55fbcc75d40bc591876555a3d4
+    m_Address: Assets/Prefabs/spineboy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2635461841903017474, guid: 7d6b5b55fbcc75d40bc591876555a3d4, type: 3}
+    m_TargetAsset: {fileID: 2635461841903017474, guid: 7d6b5b55fbcc75d40bc591876555a3d4, type: 3}
+  - m_GUID: fb14370db1b387c4f9db58877237ada1
+    m_Address: Assets/Prefabs/raptor Skeleton.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3344283109495075428, guid: fb14370db1b387c4f9db58877237ada1, type: 3}
+    m_TargetAsset: {fileID: 3344283109495075428, guid: fb14370db1b387c4f9db58877237ada1, type: 3}
+  - m_GUID: 7cc916d2670e2f9408f5e91203b59b70
+    m_Address: Assets/Prefabs/Spine GameObject (SpineUnityGirl).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 913860071779989660, guid: 7cc916d2670e2f9408f5e91203b59b70, type: 3}
+    m_TargetAsset: {fileID: 913860071779989660, guid: 7cc916d2670e2f9408f5e91203b59b70, type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 6bb31bbc0f2ab03439e76a039608129d, type: 2}
   m_SchemaSet:

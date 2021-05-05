@@ -1,3 +1,4 @@
+using Cysharp.Threading.Tasks;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -10,20 +11,18 @@ public class SpriteLoader : MonoBehaviour
     public AssetReferenceAtlasedSprite atlasedSprite;
 
     //private SpriteRenderer spriteRenderer;
-    private void Awake()
+    private async void Awake()
     {
         if(atlasedSprite == null)
         {
             Debug.Log("not set atlased sprite!!!");
         }
-        
-        atlasedSprite.LoadAssetAsync<Sprite>().Completed += (_op) =>
-        {
-            var spriteRenderer = GetComponent<SpriteRenderer>();
-            spriteRenderer.sprite = _op.Result;
 
+        var opHandle = atlasedSprite.LoadAssetAsync<Sprite>();
+        await opHandle;
 
-        };
+        var spriteRenderer = GetComponent<SpriteRenderer>();
+        spriteRenderer.sprite = opHandle.Result;
     }
     // Start is called before the first frame update
     void Start()
